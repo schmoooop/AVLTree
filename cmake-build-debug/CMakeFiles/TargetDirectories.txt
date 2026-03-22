@@ -1,3 +1,0 @@
-/Users/angielaptop/CLionProjects/AVLTree/cmake-build-debug/CMakeFiles/AVLTree.dir
-/Users/angielaptop/CLionProjects/AVLTree/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/angielaptop/CLionProjects/AVLTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
